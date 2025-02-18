@@ -1,0 +1,379 @@
+[
+    {
+        "question": "Vilken är den yngsta åldern du skulle dejta någon?",
+        "imposter_questions": [
+            "Hur gammal är din yngsta syskon?",
+            "Hur gammal var du när du fick din första crush?",
+            "Vilken är den yngsta åldern du får stanna hemma ensam?"
+        ]
+    },
+    {
+        "question": "Hur mycket skulle du donera till välgörenhet om du vann 1000 kr?",
+        "imposter_questions": [
+            "Hur mycket spenderar du på godis på en vecka?",
+            "Vad är det minsta belopp du skulle jobba för på en dag?",
+            "Hur mycket skulle du betala för att slippa göra läxor?"
+        ]
+    },
+    {
+        "question": "Vad är det konstigaste du någonsin har ätit bara för att du var uttråkad?",
+        "imposter_questions": [
+            "Vilken är den konstigaste matkombinationen du har provat?",
+            "Vad är det äckligaste du har ätit på en utmaning?",
+            "Vad är det sista du åt som du ångrar?"
+        ]
+    },
+    {
+        "question": "Om du hittade 200 kr på marken i skolan, vad skulle du göra med dem?",
+        "imposter_questions": [
+            "Vad är det mest pengar du någonsin har hittat och behållit?",
+            "Vad är det konstigaste du har köpt för hittade pengar?",
+            "Vad är det minsta belopp du skulle bry dig om att plocka upp?"
+        ]
+    },
+    {
+        "question": "Om din kompis kopierade dina läxor, hur skulle du reagera?",
+        "imposter_questions": [
+            "Vad är det mest du någonsin har fuskat på ett prov?",
+            "Vad är den konstigaste ursäkten du har gett för att inte göra läxor?",
+            "Vad är det sämsta betyg du någonsin har fått?"
+        ]
+    },
+    {
+        "question": "Om du såg din bästa väns crush flörta med någon annan, vad skulle du göra?",
+        "imposter_questions": [
+            "Vad är det pinsammaste du någonsin har gjort för att hjälpa en vän med deras crush?",
+            "Vad är den konstigaste hemligheten du någonsin har hållit för en vän?",
+            "Vad är det sämsta rådet du någonsin har gett om dejting?"
+        ]
+    },
+    {
+        "question": "Om du av misstag bröt något hos en vän, hur skulle du hantera det?",
+        "imposter_questions": [
+            "Vad är det dyraste du någonsin har brutit?",
+            "Vad är den konstigaste ursäkten du har gett för att ha brutit något?",
+            "Hur länge har du gått utan att erkänna att du gjort något fel?"
+        ]
+    },
+    {
+        "question": "Om du fick för mycket växel i en butik, vad skulle du göra?",
+        "imposter_questions": [
+            "Vad är det mest pengar du någonsin har fått av misstag?",
+            "Vad är det konstigaste du har köpt med extra växel?",
+            "Vad är det minsta belopp du skulle bry dig om att lämna tillbaka?"
+        ]
+    },
+    {
+        "question": "Om du såg att din lärare hade gylfen öppen, hur skulle du reagera?",
+        "imposter_questions": [
+            "Vad är det pinsammaste du någonsin har sagt till en lärare?",
+            "Vad är det konstigaste du någonsin har lagt märke till hos en lärare?",
+            "Hur länge har du gått utan att skratta i klassrummet?"
+        ]
+    },
+    {
+        "question": "Om din kompis höll på att skicka ett pinsamt meddelande till sin crush, vad skulle du göra?",
+        "imposter_questions": [
+            "Vad är det pinsammaste meddelandet du någonsin har skickat?",
+            "Vad är det konstigaste du har gjort för att hindra någon från att göra ett misstag?",
+            "Vad är det sämsta rådet du någonsin har gett om att skicka meddelanden?"
+        ]
+    },
+    {
+        "question": "Om du erbjöds gratis godis av en främling, hur skulle du svara?",
+        "imposter_questions": [
+            "Vad är det konstigaste du någonsin har accepterat från en främling?",
+            "Vad är det mest godis du någonsin har ätit på en gång?",
+            "Vad är den konstigaste matkombinationen du har provat?"
+        ]
+    },
+    {
+        "question": "Om du såg ditt syskon smyga ut på natten, vad skulle du göra?",
+        "imposter_questions": [
+            "Vad är det konstigaste du har gjort för att täcka för ett syskon?",
+            "Vad är det pinsammaste ditt syskon har sett dig göra?",
+            "Vad är den sämsta lögnen du någonsin har berättat för dina föräldrar?"
+        ]
+    },
+    {
+        "question": "Om du blev utmanad att äta något äckligt för 100 kr, vad skulle du göra?",
+        "imposter_questions": [
+            "Vad är det konstigaste du har ätit på en utmaning?",
+            "Vad är det mest pengar du har tjänat på att göra något dumt?",
+            "Vad är det äckligaste du har ätit?"
+        ]
+    },
+    {
+        "question": "Om du fick reda på att din kompis ljög om något fånigt, hur skulle du hantera det?",
+        "imposter_questions": [
+            "Vad är den konstigaste lögnen du någonsin har berättat?",
+            "Vad är det pinsammaste du har gjort för att dölja en lögn?",
+            "Hur länge har du gått utan att erkänna att du ljög?"
+        ]
+    },
+    {
+        "question": "Om du erbjöds svaren på ett prov, hur skulle du svara?",
+        "imposter_questions": [
+            "Vad är det mest du någonsin har fuskat på ett prov?",
+            "Vad är det konstigaste sättet du har pluggat på inför ett prov?",
+            "Vad är det sämsta betyg du någonsin har fått?"
+        ]
+    },
+    {
+        "question": "Vad är det konstigaste du någonsin har gjort för att slippa gå på en tråkig fest?",
+        "imposter_questions": [
+            "Vad är den konstigaste ursäkten du har använt för att slippa en fest?",
+            "Vad är det pinsammaste du har gjort på en fest du inte ville gå på?",
+            "Vad är det värsta du har sagt för att slippa träffa folk?"
+        ]
+    },
+    {
+        "question": "Om du kunde byta liv med någon i din klass, vem skulle det vara och varför?",
+        "imposter_questions": [
+            "Vem i din klass har det roligaste livet enligt dig?",
+            "Vem i din klass skulle du minst vilja byta liv med?",
+            "Vad är det konstigaste du har sett någon i din klass göra?"
+        ]
+    },
+    {
+        "question": "Vad är det konstigaste du någonsin har gjort för att imponera på någon?",
+        "imposter_questions": [
+            "Vad är det pinsammaste du har gjort för att få någons uppmärksamhet?",
+            "Vad är det konstigaste du har sagt för att verka cool?",
+            "Vad är det värsta rådet du har gett någon om att imponera på andra?"
+        ]
+    },
+    {
+        "question": "Om du fick välja en superkraft, vad skulle det vara och hur skulle du använda den?",
+        "imposter_questions": [
+            "Vad är den mest onödiga superkraften du kan tänka dig?",
+            "Vad skulle du göra om du kunde osynlig i en dag?",
+            "Vad är det konstigaste du skulle göra om du kunde flyga?"
+        ]
+    },
+    {
+        "question": "Vad är det konstigaste du någonsin har gjort för att vinna ett vad?",
+        "imposter_questions": [
+            "Vad är det pinsammaste du har gjort på en utmaning?",
+            "Vad är det konstigaste du har vunnit på ett vad?",
+            "Vad är det värsta du har förlorat på ett vad?"
+        ]
+    },
+    {
+        "question": "Om du kunde äta en sak resten av livet, vad skulle det vara?",
+        "imposter_questions": [
+            "Vad är det äckligaste du någonsin har ätit?",
+            "Vad är det konstigaste du har ätit på en utmaning?",
+            "Vad är det sista du skulle vilja äta resten av livet?"
+        ]
+    },
+    {
+        "question": "Vad är det konstigaste du någonsin har gjort för att slippa göra läxor?",
+        "imposter_questions": [
+            "Vad är den konstigaste ursäkten du har gett för att inte göra läxor?",
+            "Vad är det pinsammaste du har gjort för att slippa plugga?",
+            "Vad är det värsta betyget du har fått för att du inte gjorde läxan?"
+        ]
+    },
+    {
+        "question": "Om du kunde byta namn, vad skulle du heta och varför?",
+        "imposter_questions": [
+            "Vad är det konstigaste namn du kan tänka dig?",
+            "Vad är det pinsammaste smeknamnet du har haft?",
+            "Vad är det värsta namn du har hört någon ha?"
+        ]
+    },
+    {
+        "question": "Vad är det konstigaste du någonsin har gjort för att få gratis mat?",
+        "imposter_questions": [
+            "Vad är det pinsammaste du har gjort för att få rabatt?",
+            "Vad är det konstigaste du har ätit som du inte betalade för?",
+            "Vad är det värsta du har gjort för att slippa betala på en restaurang?"
+        ]
+    },
+    {
+        "question": "Om du kunde resa i tiden, vart skulle du åka och varför?",
+        "imposter_questions": [
+            "Vad är det konstigaste du kan tänka dig hända i framtiden?",
+            "Vad är det pinsammaste du har gjort när du försökte vara 'historisk'?",
+            "Vad är det värsta som skulle hända om du åkte tillbaka till din första skoldag?"
+        ]
+    },
+    {
+        "question": "Vad är det konstigaste du någonsin har gjort för att få en lärare att skratta?",
+        "imposter_questions": [
+            "Vad är det pinsammaste du har sagt till en lärare?",
+            "Vad är det konstigaste du har gjort för att få ett bättre betyg?",
+            "Vad är det värsta skämtet du har berättat i klassrummet?"
+        ]
+    },
+    {
+        "question": "Om du kunde vara en djur i en dag, vilket skulle du vara och varför?",
+        "imposter_questions": [
+            "Vad är det konstigaste djuret du kan tänka dig att vara?",
+            "Vad är det pinsammaste du har gjort när du försökte imitera ett djur?",
+            "Vad är det värsta djuret att vara enligt dig?"
+        ]
+    },
+    {
+        "question": "Vad är det konstigaste du någonsin har gjort för att vinna ett spel?",
+        "imposter_questions": [
+            "Vad är det pinsammaste du har gjort när du förlorade ett spel?",
+            "Vad är det konstigaste du har sagt under ett spel?",
+            "Vad är det värsta fusket du har gjort i ett spel?"
+        ]
+    },
+    {
+        "question": "Om du kunde skapa en egen skolregel, vad skulle det vara och varför?",
+        "imposter_questions": [
+            "Vad är den konstigaste skolregeln du kan tänka dig?",
+            "Vad är det pinsammaste du har gjort för att bryta mot en skolregel?",
+            "Vad är det värsta som skulle hända om alla skolregler försvann?"
+        ]
+    },
+    {
+        "question": "Vad är det konstigaste du någonsin har gjort för att få en komplimang?",
+        "imposter_questions": [
+            "Vad är det pinsammaste du har gjort för att få uppmärksamhet?",
+            "Vad är det konstigaste sättet du har svarat på en komplimang?",
+            "Vad är det värsta du har sagt för att få någon att smickra dig?"
+        ]
+    },
+    {
+        "question": "Vem av er är smartast?",
+        "imposter_questions": [
+            "Vem av er är sämst på att lösa problem?",
+            "Vem av er fattar oftast långsamt?",
+            "Vem av er skulle behöva mest hjälp på ett prov?"
+        ]
+    },
+    {
+        "question": "Vem av er är roligast?",
+        "imposter_questions": [
+            "Vem av er har sämst humor?",
+            "Vem av er berättar de tråkigaste skämten?",
+            "Vem av er skrattar åt skämt ingen annan förstår?"
+        ]
+    },
+    {
+        "question": "Vem av er är mest pålitlig?",
+        "imposter_questions": [
+            "Vem av er skulle råka försäga sig direkt?",
+            "Vem av er glömmer alltid viktiga saker?",
+            "Vem av er skulle aldrig kunna hålla en hemlighet?"
+        ]
+    },
+    {
+        "question": "Vem av er är bäst på att sjunga?",
+        "imposter_questions": [
+            "Vem av er låter som en kråka när de sjunger?",
+            "Vem av er skulle få sämst betyg i Idol?",
+            "Vem av er sjunger falskt men tror att de är bra?"
+        ]
+    },
+    {
+        "question": "Vem av er skulle vara bäst på att överleva i vildmarken?",
+        "imposter_questions": [
+            "Vem av er skulle svälta först?",
+            "Vem av er är sämst på att hitta vägen?",
+            "Vem av er skulle försöka krama en björn?"
+        ]
+    },
+    {
+        "question": "Vem av er är mest organiserad?",
+        "imposter_questions": [
+            "Vem av er tappar alltid bort sina saker?",
+            "Vem av er har den stökigaste väskan?",
+            "Vem av er glömmer alltid sina läxor?"
+        ]
+    },
+    {
+        "question": "Vem av er är mest atletisk?",
+        "imposter_questions": [
+            "Vem av er blir andfådd av att gå uppför en trappa?",
+            "Vem av er är sämst på sport?",
+            "Vem av er har ramlat över sin egna fötter flest gånger?"
+        ]
+    },
+    {
+        "question": "Vem av er är mest kreativ?",
+        "imposter_questions": [
+            "Vem av er har sämst fantasi?",
+            "Vem av er kan bara rita streckgubbar?",
+            "Vem av er har aldrig kommit på en egen idé?"
+        ]
+    },
+    {
+        "question": "Vem av er är mest social?",
+        "imposter_questions": [
+            "Vem av er hatar att prata med nya människor?",
+            "Vem av er skulle helst bo ensam i en skog?",
+            "Vem av er skulle aldrig våga småprata med en främling?"
+        ]
+    },
+    {
+        "question": "Vem av er är bäst på att laga mat?",
+        "imposter_questions": [
+            "Vem av er skulle bränna vatten?",
+            "Vem av er kan bara göra nudlar?",
+            "Vem av er skulle förgifta alla med sin mat?"
+        ]
+    },
+    {
+        "question": "Vem av er har bäst stil?",
+        "imposter_questions": [
+            "Vem av er klär sig som om det vore 2010?",
+            "Vem av er matchar aldrig sina kläder?",
+            "Vem av er skulle behöva en stylist?"
+        ]
+    },
+    {
+        "question": "Vem av er är bäst på att ljuga?",
+        "imposter_questions": [
+            "Vem av er rodnar direkt om de ljuger?",
+            "Vem av er avslöjar sig själv varje gång?",
+            "Vem av er skulle inte kunna lura ett litet barn?"
+        ]
+    },
+    {
+        "question": "Vem av er är mest tävlingsinriktad?",
+        "imposter_questions": [
+            "Vem av er bryr sig aldrig om att vinna?",
+            "Vem av er ger upp så fort det blir svårt?",
+            "Vem av er har aldrig brytt sig om en tävling?"
+        ]
+    },
+    {
+        "question": "Vem av er är mest teknisk?",
+        "imposter_questions": [
+            "Vem av er vet knappt hur man startar en dator?",
+            "Vem av er skulle få virus direkt?",
+            "Vem av er tror att RAM är en maträtt?"
+        ]
+    },
+    {
+        "question": "Vem av er är mest tålmodig?",
+        "imposter_questions": [
+            "Vem av er blir arg efter två sekunder?",
+            "Vem av er hatar att vänta på något?",
+            "Vem av er ger upp direkt om något tar för lång tid?"
+        ]
+    },
+    {
+        "question": "Vem av er skulle klara sig längst i en zombieapokalyps?",
+        "imposter_questions": [
+            "Vem av er skulle bli biten först?",
+            "Vem av er skulle råka låsa in sig med zombier?",
+            "Vem av er skulle tro att zombierna bara vill kramas?"
+        ]
+    },
+    {
+        "question": "Vem av er är mest romantisk?",
+        "imposter_questions": [
+            "Vem av er skulle glömma alla årsdagar?",
+            "Vem av er har noll känsla för romantik?",
+            "Vem av er tycker att en burk ravioli är en romantisk middag?"
+        ]
+    }
+    
+]

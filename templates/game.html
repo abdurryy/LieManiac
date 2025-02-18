@@ -1,0 +1,29 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static',filename='styles/main.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static',filename='styles/game.css') }}">
+    <title>Document</title>
+</head>
+<style>
+    ul {
+        list-style-type: none;
+    }
+</style>
+<body>
+    <div id="username-cont">
+        <p id="username">{{username}}</p>
+        <p id="game-id" style="display: none;">{{game_id}}</p>
+    </div>
+    <div id="panel-cont">
+        <div id="panel">
+            <h1 id="WV" >Waiting for others!</h1>
+            <h1 id="question" style="display: none;">Question</h1>
+            <textarea id="Answer" style="display: none;" placeholder="Answer the question honestly" style="width: 300px; height: 200px; margin-bottom: 10px;"> </textarea>
+            <button id="send" style="display: none;" onclick="submit()">Send</button>
+        </div>
+    </div>
+</body>
+<script src="{{ url_for('static',filename='js/joinee.js') }}"></script>
+</html>

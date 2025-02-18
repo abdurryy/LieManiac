@@ -1,0 +1,56 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static',filename='styles/main.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static',filename='styles/host.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body>
+    <div id="panel-cont">
+        <div id="panel">
+            <h1>LieManiac</h1>
+            <p id="game-id">{{game_id}}</p>
+            <div id="player-list">
+                
+            </div>
+            <button id="start" onclick="start()">Start</button>
+        </div>
+    </div>
+    <div id="game-cont" style="display: none;">
+        <div id="game" style="display: none;">
+            <div id="Question"><h1>VAD HETER DU?</h1></div>
+            <button onclick="next()">next question</button>
+            <div id="show-answers">
+                <div class="submission">
+                    <h3>Lalalalalalala</h3>
+                    <p>sumayo</p>
+                </div>
+                <div class="submission">
+                    <h3>Lalalalalalala</h3>
+                    <p>sumayo</p>
+                </div>
+                <div class="submission">
+                    <h3>Lalalalalalala</h3>
+                    <p>sumayo</p>
+                </div>
+                <div class="submission">
+                    <h3>Lalalalalalala</h3>
+                    <p>sumayo</p>
+                </div>
+                <div class="submission">
+                    <h3>Lalalalalalala</h3>
+                    <p>sumayo</p>
+                </div>
+            </div>
+        </div>
+        <div id="wfe" style="display: none;">
+            <h1>Waiting for all submissions</h1>
+        </div>
+    </div>
+</body>
+<script src="{{ url_for('static',filename='js/host.js') }}"></script>
+</html>

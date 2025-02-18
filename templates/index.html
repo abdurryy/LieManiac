@@ -1,0 +1,37 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static',filename='styles/main.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static',filename='styles/index.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body>
+    <div id="username-cont">
+        <p id="username">{{username}}</p>
+    </div>
+    <div id="panel-cont">
+        <div id="panel">
+            {% with messages = get_flashed_messages() %}
+                {% if messages %}
+                    <ul>
+                    {% for message in messages %}
+                        <li>{{ message }}</li>
+                    {% endfor %}
+                    </ul>
+                {% endif %}
+            {% endwith %}
+            <h1>LieManiac</h1>
+            <form action="/join" method="post">
+                <input placeholder="CODE" name="code">
+                <button type="submit">JOIN</button>
+            </form>
+            <button onclick="create_game()">CREATE YOUR OWN</button>
+        </div>
+    </div>
+</body>
+<script src="{{ url_for('static',filename='js/create.js') }}"></script>
+</html>

@@ -1,0 +1,20 @@
+<html>
+<head>
+    <title>Answer the Question</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/question.css') }}">
+</head>
+<style>
+    button {
+        background-color: blue;
+        color: white;
+    }
+</style>
+<body>
+    <h1>Question</h1>
+    <p>{{ question }}</p>
+    <form action="/submit_answer/{{ game_id }}" method="post">
+        <input type="text" name="answer" placeholder="Your answer">
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
